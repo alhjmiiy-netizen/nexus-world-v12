@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Nexus World v5 · The Living God",
+  "short_name": "Nexus v5",
+  "description": "Walk, fly and shape the land as the Nexus by Lord A'lhjmii. A god-game where your followers see you, work beside you and grow a civilisation. Plays fully offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
